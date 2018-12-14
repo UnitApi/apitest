@@ -2,6 +2,17 @@
 NodeJs App, which create comparasion over requests between many the same applications on DEVOPS environment: local/test/live
 
 
+## environment 
+unitApi.yaml
+
++ typescript
++ visualstudio
++ nodejs
++ api
+
+https://code.visualstudio.com/docs/languages/typescript
+
+
 ## Solution is based on scenario
 
 ### json config
